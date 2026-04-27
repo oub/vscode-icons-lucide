@@ -470,6 +470,7 @@ export const set: IconSet = {
     'codicon:repo-push': '',
     'codicon:repo-sync': 'lucide:refresh-ccw',
     'codicon:report': 'lucide:message-square-warning',
+    'codicon:ask': 'lucide:message-circle-question-mark',
     'codicon:request-changes': 'lucide:file-diff',
     'codicon:robot': 'lucide:bot',
     'codicon:rocket': 'lucide:rocket',

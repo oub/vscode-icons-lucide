@@ -1,6 +1,25 @@
 # Changelog
 
 
+## v0.3.5
+
+[compare changes](https://github.com/ZTL-UwU/vscode-icons-lucide/compare/v0.3.4...v0.3.5)
+
+### 🚀 Enhancements
+
+- Minor changes ([efe74ee](https://github.com/ZTL-UwU/vscode-icons-lucide/commit/efe74ee))
+- Better layout control icons ([#2](https://github.com/ZTL-UwU/vscode-icons-lucide/pull/2))
+- Map codicon:ask ([d34e85c](https://github.com/ZTL-UwU/vscode-icons-lucide/commit/d34e85c))
+
+### 🏡 Chore
+
+- Bump deps ([88dc3d0](https://github.com/ZTL-UwU/vscode-icons-lucide/commit/88dc3d0))
+
+### ❤️ Contributors
+
+- ZTL-UwU
+- Hilario ([@imgaty](https://github.com/imgaty))
+
 ## v0.3.4
 
 [compare changes](https://github.com/ZTL-UwU/vscode-icons-lucide/compare/v0.3.3...v0.3.4)

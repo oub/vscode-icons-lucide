@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.3.7
+
+[compare changes](https://github.com/ZTL-UwU/vscode-icons-lucide/compare/v0.3.6...v0.3.7)
+
+### 🩹 Fixes
+
+- Use clockwise icon for refreshs ([#3](https://github.com/ZTL-UwU/vscode-icons-lucide/pull/3))
+
+### ❤️ Contributors
+
+- Olivier Cuenot
+
 ## v0.3.6
 
 [compare changes](https://github.com/ZTL-UwU/vscode-icons-lucide/compare/v0.3.5...v0.3.6)

@@ -1,7 +1,7 @@
 {
   "publisher": "oub",
   "name": "lucide-icons-fork",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "engines": {
@@ -15,10 +15,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZTL-UwU/vscode-icons-lucide.git"
+    "url": "https://github.com/oub/vscode-icons-lucide.git"
   },
   "bugs": {
-    "url": "https://github.com/ZTL-UwU/vscode-icons-lucide/issues"
+    "url": "https://github.com/oub/vscode-icons-lucide/issues"
   },
   "keywords": [
     "icon",

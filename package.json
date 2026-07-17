@@ -1,16 +1,16 @@
 {
-  "publisher": "ztluwu",
-  "name": "lucide-icons",
-  "version": "0.3.7",
+  "publisher": "oub",
+  "name": "lucide-icons-fork",
+  "version": "0.0.1",
   "private": true,
   "type": "module",
   "engines": {
     "vscode": "*"
   },
-  "displayName": "Lucide Product Icon Theme",
-  "description": "Lucide Product Icon Theme for VS Code",
+  "displayName": "Lucide Product Icon Theme Fork",
+  "description": "Lucide Product Icon Theme Fork for VS Code",
   "author": {
-    "name": "Tony Zhang"
+    "name": "oub"
   },
   "license": "MIT",
   "repository": {
@@ -33,14 +33,11 @@
   "extensionKind": [
     "ui"
   ],
-  "sponsor": {
-    "url": "https://ko-fi.com/ztl_uwu"
-  },
   "contributes": {
     "productIconThemes": [
       {
         "id": "lucide-icons",
-        "label": "Lucide Product Icon Theme",
+        "label": "Lucide Product Icon Theme Fork",
         "path": "./dist/lucide-icons.json"
       }
     ]

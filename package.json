@@ -1,14 +1,14 @@
 {
   "publisher": "oub",
-  "name": "lucide-icons-fork",
+  "name": "lucide-product-icon-theme-fork",
   "version": "0.0.1",
   "private": true,
   "type": "module",
   "engines": {
     "vscode": "*"
   },
-  "displayName": "Lucide Product Icon Theme Fork",
-  "description": "Lucide Product Icon Theme Fork for VS Code",
+  "displayName": "Lucide Product Icon Theme (Fork)",
+  "description": "Lucide Product Icon Theme (Fork) for VS Code",
   "author": {
     "name": "oub"
   },
@@ -36,8 +36,8 @@
   "contributes": {
     "productIconThemes": [
       {
-        "id": "lucide-icons",
-        "label": "Lucide Product Icon Theme Fork",
+        "id": "lucide-product-icon-theme-fork",
+        "label": "Lucide Product Icon Theme (Fork)",
         "path": "./dist/lucide-icons.json"
       }
     ]

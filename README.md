@@ -1,15 +1,9 @@
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable no-inline-html heading-start-left first-line-h1 -->
 <div align="center">
-  <img src="https://github.com/oub/vscode-icons-lucide/blob/main/icon.png?raw=true" height="130" width="130" alt="Logo"/>
 
-# Lucide Product Icon Theme Fork
-
-[Lucide](https://lucide.dev/) Visual Studio Code [product icon theme](https://code.visualstudio.com/api/extension-guides/product-icon-theme)
-
-With pin icons!
-
-![Preview](https://raw.githubusercontent.com/oub/vscode-icons-lucide/refs/heads/main/preview.png)
+![Preview](https://raw.githubusercontent.com/oub/vscode-icons-lucide/refs/heads/main/preview.png)<br/>
+[Lucide](https://lucide.dev/) Visual Studio Code [product icon theme](https://code.visualstudio.com/api/extension-guides/product-icon-theme), with pin icons!
 
 </div>
 <!-- markdownlint-restore -->

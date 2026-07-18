@@ -9,6 +9,8 @@
 
 With pin icons!
 
+![Preview](https://raw.githubusercontent.com/oub/vscode-icons-lucide/refs/heads/main/preview.png)
+
 </div>
 <!-- markdownlint-restore -->
 
